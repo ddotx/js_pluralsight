@@ -57,4 +57,3 @@ console.log("You are dealt: ");
 console.log(" " + getCardString(playerCards[0]));
 console.log(" " + getCardString(playerCards[1]));
 
-//console.log(typeof(card1));
